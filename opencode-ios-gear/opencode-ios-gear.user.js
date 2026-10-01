@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         OpenCode iOS Fixes for Gear
 // @namespace    local.opencode
-// @version      1.0.4
+// @version      1.0.5
 // @description  Fix iOS input zoom, keyboard viewport panning, and UI density in Gear
 // @include      http://100.100.10.1:4096/*
 // @updateURL    https://raw.githubusercontent.com/ntcho/userspace/main/opencode-ios-gear/opencode-ios-gear.user.js
 // @downloadURL  https://raw.githubusercontent.com/ntcho/userspace/main/opencode-ios-gear/opencode-ios-gear.user.js
-// @homepageURL  https://github.com/ntcho/userspace/tree/main/opencode-ios-gear
+// @homepage     https://github.com/ntcho/userspace/tree/main/opencode-ios-gear
 // @run-at       document-start
 // @run-in       normal-tabs
 // @grant        none
